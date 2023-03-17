@@ -98,7 +98,7 @@ public class Principal {
 				break;
 				
 			case 6:
-				System.out.println("Saindo...");
+				System.out.println("Fim");
 			}
 			if (menu == 6) {
 				break;
